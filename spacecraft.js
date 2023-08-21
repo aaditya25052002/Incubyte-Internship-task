@@ -5,6 +5,11 @@ class Spacecraft {
         this.z = z;
         this.direction = direction;
     }
+    move(command) {
+        if (command === 'f' && this.direction === 'N') {
+            this.y++;
+        }
+    }    
 }
 
 module.exports = Spacecraft;
