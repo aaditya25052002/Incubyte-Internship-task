@@ -56,6 +56,8 @@ class Spacecraft {
             case 'E': this.direction = 'N'; break;
             case 'S': this.direction = 'E'; break;
             case 'W': this.direction = 'S'; break;
+            case 'U': this.direction = 'N'; break;  // Orientation change when facing Up
+            case 'D': this.direction = 'S'; break;  // Orientation change when facing Down
         }
     }
     
@@ -65,6 +67,8 @@ class Spacecraft {
             case 'E': this.direction = 'S'; break;
             case 'S': this.direction = 'W'; break;
             case 'W': this.direction = 'N'; break;
+            case 'U': this.direction = 'S'; break;  // Orientation change when facing Up
+            case 'D': this.direction = 'N'; break;  // Orientation change when facing Down
         }
     }
     
