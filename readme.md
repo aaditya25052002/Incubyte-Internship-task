@@ -14,19 +14,18 @@ A CLI application to navigate a spacecraft in 3D space. The user defines the spa
 - [Built With](#built-with)
 - [Authors](#authors)
 
----
+
 
 ## Getting Started
 
 Follow the instructions to get the project running on your local machine for development and testing.
 
----
 
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) and NPM
 
----
+
 
 ## Installation
 
@@ -45,7 +44,7 @@ Follow the instructions to get the project running on your local machine for dev
     npm install
     ```
 
----
+
 
 ## Usage
 
@@ -58,7 +57,7 @@ Follow the instructions to get the project running on your local machine for dev
 
 3. The program will output the final position and direction of the spacecraft.
 
----
+
 
 ## Running the tests
 
@@ -67,17 +66,17 @@ To ensure the reliability of the navigation system, unit tests are provided. To 
     npm test
     ```
 
----
+
 
 ## Built With
 
 - [Node.js](https://nodejs.org/) - The runtime used
 - Jest (or any other testing library you're using) - Testing framework
 
----
+
 
 ## Authors
 
 - [Aditya Tiwari](https://github.com/aaditya25052002) - Initial work
 
----
+
