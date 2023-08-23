@@ -31,12 +31,12 @@ Follow the instructions to get the project running on your local machine for dev
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/spacecraft-navigation-cli.git
+    git clone https://github.com/aaditya25052002/Incubyte-Internship-task
     ```
 
 2. Navigate to the project directory:
     ```
-    cd spacecraft-navigation-cli
+    cd Incubyte-Internship-task
     ```
 
 3. Install the required packages:
